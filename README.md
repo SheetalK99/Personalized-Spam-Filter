@@ -9,4 +9,19 @@ Main components:
 5. Friend Notification System
 
 # Getting Started
+1.Install Microsoft Visual Studio
+2. Install Google api for getting Gmail contacts. Required dlls are:
+   Google.GData.Apps.dll
+   Google.GData.Client.dll
+   Google.GData.Contacts.dll
+   Google.GData.Extensions.dll
+3. Download Facebook Graph API files in PHP and Javascript( Facebook PHP SDK v4.1)
+4. To retrieve emails from users' mailbox use EagetMail. It provides the necessary POP3 and IMAP4 components.
+5. SwiftMailer for sending email notifications
+
+References section provides links that will help in installation and configuration of above steps.
+
+# References
+[Plan for spam](http://www.paulgraham.com/spam.html)
+
 
