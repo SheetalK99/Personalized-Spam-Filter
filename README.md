@@ -13,7 +13,7 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 ### Prereqisites ###
 * Install Microsoft Visual Studio
 * Install Google api for getting Gmail contacts. Required dlls are:
-              * Google.GData.Apps.dll
+              * Google.GData.Apps.dll              
               * Google.GData.Client.dll
               * Google.GData.Contacts.dll
               * Google.GData.Extensions.dll
