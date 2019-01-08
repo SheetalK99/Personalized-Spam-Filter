@@ -11,12 +11,13 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 ## Getting Started ##
 
 ### Prereqisites ###
-* Install Microsoft Visual Studio
+* Install Microsoft Visual Studio 
 * Install Google api for getting Gmail contacts. Required dlls are:
-              * Google.GData.Apps.dll              
+              * Google.GData.Apps.dll
               * Google.GData.Client.dll
               * Google.GData.Contacts.dll
               * Google.GData.Extensions.dll
+
 * Download Facebook Graph API files in PHP and Javascript( Facebook PHP SDK v4.1)
 * To retrieve emails from users' mailbox use EagetMail. It provides the necessary POP3 and IMAP4 components.
 * SwiftMailer for sending email notifications
