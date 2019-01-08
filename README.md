@@ -24,7 +24,12 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 ### Installing ###
 
 1. https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017
-
+2. https://developers.google.com/gdata/articles/dotnet_client_lib
+3. https://developers.facebook.com/docs/graph-api/
+4. https://developers.facebook.com/docs/reference/php/
+5. https://www.emailarchitect.net/eagetmail
+6. https://www.emailarchitect.net/eagetmail/sdk/
+7. https://swiftmailer.symfony.com/docs/introduction.html
 
 References section provides links that will help in installation and configuration of above steps.
 
