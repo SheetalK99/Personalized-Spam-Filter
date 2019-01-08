@@ -36,6 +36,8 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 
 ## How it works ##
 
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+
 ### Bayesian Filtering ###
 We start with one corpus of spam and one of The algorithm counts the number of times each token  occurs in each corpus. So we have 2 dictionaries with words and their counts. A third hash table is maintained that stores the probability of a word occuring in a spam mail. To avoid false positives, certain thressholds are decided by empirical observations like considering oly those words that occur atleast twice, double all the numbers in good. Detailed explanation at [Plan for spam](http://www.paulgraham.com/spam.html)
 
