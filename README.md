@@ -10,7 +10,7 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 
 ## Getting Started ##
 
-
+### Prereqisites ###
 * Install Microsoft Visual Studio
 * Install Google api for getting Gmail contacts. Required dlls are:
               * Google.GData.Apps.dll
@@ -21,9 +21,15 @@ A personalised spam filter that enhances basic Bayesian filter by consuming user
 * To retrieve emails from users' mailbox use EagetMail. It provides the necessary POP3 and IMAP4 components.
 * SwiftMailer for sending email notifications
 
+### Installing ###
+
+1. https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2017
+
+
 References section provides links that will help in installation and configuration of above steps.
 
-# References
+
+## References##
 [Plan for spam](http://www.paulgraham.com/spam.html)
 
 
